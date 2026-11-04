@@ -268,7 +268,16 @@ It also provided practical experience in comparing different algorithms and sele
 - **Web Application:** Streamlit (if included in the repository)
 
 ---
-## How to Run the Project
+
+## Live Demo
+
+The Health Insurance Claim Prediction application is deployed using Streamlit Cloud.
+
+**Live Application:** [Click here to access the Streamlit App](https://amritha-a1-health-insurance-claim-prediction-app-ru7mfq.streamlit.app/)
+
+You can use the live application to enter personal and medical details and predict the health insurance claim amount.
+
+## How to Run the Project Locally
 
 **1. Clone the Repository**
 ```bash
@@ -290,7 +299,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The Streamlit application will open in your web browser.
+The application will open in your web browser at:
+`http://localhost:8501`
+
 
 
 ## 📁 Project Structure
